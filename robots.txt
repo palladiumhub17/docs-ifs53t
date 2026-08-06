@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-kw5i6t.mypensionxper.com/sitemap.xml
